@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "path": "../images/01-goku.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 2,
+        "name": "Bulma",
+        "path": "../images/02-bulma.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 3,
+        "name": "Vegeta",
+        "path": "../images/03-vegeta.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 4,
+        "name": "Piccolo",
+        "path": "../images/04-piccolo.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 5,
+        "name": "Chichi",
+        "path": "../images/05-chichi.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 6,
+        "name": "Gohan",
+        "path": "../images/06-gohan.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 7,
+        "name": "Trunks",
+        "path": "../images/07-trunks.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 8,
+        "name": "Hercule Satan",
+        "path": "../images/08-hercule.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    },
+    {
+        "id": 9,
+        "name": "Buu",
+        "path": "../images/09-buu.png",
+        "image-height": 160,
+        "image-width": 160,
+        "image-size-unit": "px"
+    }
+]
